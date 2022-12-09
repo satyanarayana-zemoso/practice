@@ -1,0 +1,3 @@
+[submodule "practice_dup"]
+	path = practice_dup
+	url = https://github.com/satyanarayana-zemoso/practice_dup.git
