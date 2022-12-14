@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 nice to meet you
+hello world
+>>>>>>> 6adfc28 (second user)
